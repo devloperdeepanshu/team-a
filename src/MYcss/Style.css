@@ -105,12 +105,12 @@ padding: 0px 22px;
     height: 36px;
     /* margin-top: 4px; */
 }
-#mobile{
+/* #mobile{
     /* display:none; */
-}
-.Mobile_icon{
+/* } */ 
+/* .Mobile_icon{
 
-}
+} */
 .Mobile_icon img{
     display: none;
 }
@@ -205,9 +205,9 @@ height: 100%;
         justify-content: start;
     }
     
-    .Third_page_h1{
+    /* .Third_page_h1{
     
-    }
+    } */
     .Third_page_h1 h1{
         font-size: 36px;
         line-height: 48px;
@@ -250,9 +250,9 @@ height: 100%;
         gap: 10px;
         margin-top: 10px;
     }
-    .Third_page_row3{
+    /* .Third_page_row3{
 
-    }
+    } */
     /* .Third_page_3 img:first-child{
         width: 21px;
         height: 21px;
@@ -285,9 +285,9 @@ height: 100%;
         justify-content: center;
         margin: 40px 0px;
     }
-    .Third_page_row3_img_text{
+    /* .Third_page_row3_img_text{
     
-    }
+    } */
 
     .Third_page_row3_img{
    width: 270px ;
@@ -365,9 +365,9 @@ outline: none;
     margin: 10px 40px;
 }
 
-.Fourth_page_all{
+/* .Fourth_page_all{
     /* display: flex; */
-}
+/* }  */
 
 
 .Fourth_page_1{
@@ -410,9 +410,9 @@ outline: none;
   /* align-content: center; */
 
 /* } */ 
-.Fourth_pagee_2_img{
+/* .Fourth_pagee_2_img{
 
-}
+} */
 .Fourth_pagee_2_img button{
     padding: 16px 48px;
     border-radius: 4px;
@@ -447,9 +447,9 @@ outline: none;
     
 }
 
-.fifth_page_button {
+/* .fifth_page_button {
 
-}
+} */
 .fifth_page_button button{
     padding: 16px 48px;
     border-radius:4px;
@@ -474,9 +474,9 @@ color: #000;
 padding: 5px 0px;
 line-height: 24px;
 }
-.fifth_page_3_Img_text{
+/* .fifth_page_3_Img_text{ */
  /* display: flex;    */
-}
+/* } */
 .fifth_page_3_Img_text button{
     padding: 5px 103px;
   color: #fff;
@@ -743,10 +743,10 @@ height: 100%;
     padding-top: 26px;
     justify-content: center;
 }
-.Eight_page_right_bottom img{
+/* .Eight_page_right_bottom img{ */
     /* width: 100%;
     height: 100%; */
-}
+/* } */
 
 
 /* -------------eight page end----------- */
@@ -855,9 +855,9 @@ margin-top: 10px;
 
 
 }
-.Fother_1_input input::placeholder{
+/* .Fother_1_input input::placeholder{ */
 /* margin-left: 90px; */
-}
+/* } */
 .Fother_1_input img{
     width: 24px;
     height: 24px;
@@ -892,9 +892,9 @@ margin-bottom: 0rem;
 
 
 
-.stores img:first-child{
+/* .stores img:first-child{ */
     /* margin-bottom: 8px; */
-}
+/* } */
 .Social_Media{
     display: flex;
     justify-content: space-between;
