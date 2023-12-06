@@ -536,8 +536,9 @@ text-decoration:line-through;
 
 .Sixth_page{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     flex-wrap: wrap;
+    gap: 160px;
     background-color: #000;
     margin: 0px 40px;
     padding:60px 0 ;

@@ -1,5 +1,6 @@
 import React from 'react';
 import '../MYcss/Style.css';
+// import '../MYcss/Responsive.css';
 import '../MYcss/Responsive.css';
 import { Link } from 'react-router-dom'
 import Image1 from '../Picture/Searchbar.png'
