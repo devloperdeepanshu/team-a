@@ -1,17 +1,16 @@
-//  import Navbar from'./components/Navbar';
+// import Navbar from'./components/Navbar';
 // import Wishlist from './components/wishlist';
 // import Contact from './components/contact';
-import Checkout from './components/Checkout'
-
+ import Main from './components/main'
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-         {/* <Navbar/> */}
+        {/* <Navbar/> */}
         {/* <Wishlist/> */}
-        <Checkout />
-
-      </header>
+        {/* <Contact/> */}
+      <Main/>
+    </header>
     </div>
   );
 }
